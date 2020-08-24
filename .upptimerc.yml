@@ -1,5 +1,5 @@
-owner: koj-co
-repo: upptime
+owner: waipeinan
+repo: arewethereyet
 user-agent: KojBot
 sites:
   - name: Google
@@ -10,7 +10,7 @@ sites:
     url: https://archive.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
+  - name: cult
     url: https://theculture.net
   - name: radio
     url: https://theculture.net/radio
