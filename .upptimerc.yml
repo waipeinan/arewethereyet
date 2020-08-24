@@ -11,11 +11,11 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+    url: https://theculture.net
+  - name: radio
+    url: https://theculture.net/radio
 assignees:
-  - AnandChowdhary
+  - someone 
 status-website:
   cname: upptime.js.org
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
